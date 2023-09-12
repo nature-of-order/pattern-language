@@ -1,4 +1,16 @@
-# THE DEBATE: "Contrasting Concepts of Harmony in Architecture"
+# Contrasting Concepts of Harmony in Architecture: The 1982 Debate Between Christopher Alexander and Peter Eisenman
+
+### An Early Discussion of the "New Sciences" of Organised Complexity in Architecture
+
+## Editors’ Introduction
+
+This legendary debate took place at the Graduate School of Design, Harvard University, on November 17th 1982. Not long before it, Alexander had given a talk on _The_ _Nature of Order_, which was to become the subject of his _magnum opus_ of architectural philosophy. The original version he envisaged was less than half the size of the final four-volume work as it now stands, but its main ideas were already formulated.
+
+Before the debate Eisenman had listened to the tape of Alexander's talk – one of the first public presentations of the ideas in _The Nature of Order_. What followed was thus partly shaped by those ideas. What ensued can be said to represent an historic occasion: Alexander is presenting his basis for the New Paradigm in Architecture at the same time as Eisenman presents his competing, diametrically opposed, deconstructivist claim for such a Paradigm.
+
+The importance of the debate has been widely recognised. Twenty years later, the Harvard Graduate School of Design republished it alongside three other seminal documents from the post-1969 period: an early piece by Alexander Tzonis on the “end of ideology in architecture”, excerpts from a 1994 conference on “De-naturalized Urbanity”, and a recent debate on urbanism between Rem Koolhaas and Andres Duany. Some people may only have heard of the 1982 encounter because Alexander said Eisenman was “fucking up the world" in a public forum; but if this is all one knows about it, one is not prepared for the generally good-natured tone of most of the exchanges.
+
+## THE DEBATE: "Contrasting Concepts of Harmony in Architecture"
 
 *First published in Lotus International **40** (1983), pages 60-68. Reprinted in Studio Works **7** (Harvard University Graduate School of Design), Princeton Architectural Press (2000), pages 50-57.*
 
