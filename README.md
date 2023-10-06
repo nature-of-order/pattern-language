@@ -1,8 +1,10 @@
 Making Christopher Alexander and co's work including A Pattern Language more accessible online.
 
-Have loved Christopher Alexander and co's A Pattern Language for more than 20 years.
+## Motivation
 
-Would be amazing to have a decent online version with search, directory of patterns, linking, real text etc.
+Have loved Christopher Alexander and co's work for more than 20 years.
+
+Want a good online version of e.g. a pattern language with search, directory of patterns, linking, real text etc.
 
 Using the physical book can be a bit painful trying to move between patterns or even find the page for a given pattern.
 
